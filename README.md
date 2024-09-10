@@ -12,12 +12,6 @@
 
 <h3 align="left">Skills</h3>
 
-###
-
-<p align="left">Front-end development: HTML, CSS, JavaScript<br>Visual development: Webflow, Framer<br>CSS frameworks: Tailwind CS</p>
-
-###
-
 <div align="left">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
